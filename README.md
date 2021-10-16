@@ -1,2 +1,2 @@
 # Fullname.py
-A phython program that presents my full name
+A python program that presents my full name
